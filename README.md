@@ -20,3 +20,5 @@ Apaguei essa linha porque quis
 Nao pode falar paravros por isso estou deletando essa linha
 
 blz amigo
+
+vixi mano, ta louco??
