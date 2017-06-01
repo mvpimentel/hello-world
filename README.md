@@ -16,4 +16,5 @@ Ola amigos. Estou testando esse novo arquivo para ver como funciona o github.
 
 Apaguei essa linha porque quis
 
-Foda-se
+
+Nao pode falar paravros por isso estou deletando essa linha
